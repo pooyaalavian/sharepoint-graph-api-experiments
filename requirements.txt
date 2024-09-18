@@ -1,0 +1,4 @@
+python-dotenv
+azure-search-documents
+azure-identity
+msgraph-sdk
